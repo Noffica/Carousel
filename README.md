@@ -37,6 +37,7 @@ In its current form, the only useable aspects of the project are the
 - The [`omniauth`](https://github.com/intridea/omniauth) gem was used to implement single sign-on with Facebook.
   - Single sign-on (SSO) was implemented as the only route to sign-up / sign-in so as to spare the user the hassle of creating yet one more account on the web.
 - Users under the age of 16 are **not** allowed to sign-on; they do **not** have access to the game.
+- Facebook / User data is **not** shared with anyone; no third-party has access to it.
 
 #### Contact Us
 The following gems were used to setup the Contact Us form:
