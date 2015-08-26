@@ -44,7 +44,7 @@ In its current form, the only useable aspects of the project are the
   - the lower limit of the age range
   - URL of the profile photo
 
-#### Contact Us
+#### _Contact Us_ form
 The following gems were used to setup the Contact Us form:
 - [`mail_form`](https://github.com/plataformatec/mail_form)
 - [`simple_form`](https://github.com/plataformatec/simple_form)
