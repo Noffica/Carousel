@@ -2,7 +2,7 @@
 
 This is a hollowed copy of an _interactive story_ (game) powered by the [Phaser.js](http://phaser.io) game engine.
 
-In keeping with the wishes of the owner, [EulaConstellar](https://github.com/EulaConstellar), of the private project, who also holds ownership of the assets, the assets have been removed from this publicly viewable copy.
+**In keeping with the wishes of the owner of the private project, [EulaConstellar](https://github.com/EulaConstellar), who also holds ownership of the assets, the assets have been removed from this publicly viewable copy.**
 
 Consequently, whilst the game launches successfully, it is humanly un-playable due to the missing assets.
 
