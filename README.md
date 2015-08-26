@@ -1,4 +1,12 @@
-This is a hollowed copy of a private repository owned by [EulaConstellar](https://github.com/EulaConstellar), where, in keeping with the wishes of the owner, all owned assets have been removed.
+This is a hollowed copy of an _interactive story_ (game) powered by the [Phaser.js](http://phaser.io) game engine.
+
+In keeping with the wishes of the owner, [EulaConstellar](https://github.com/EulaConstellar), of the private project, who also holds ownership of the assets, the assets have been removed from this publicly viewable copy.
+
+Consequently, whilst the game launches successfully, it is humanly un-playable due to the missing assets.
+
+The author has expressed their intent to release a video walkthrough for the public.
+
+----
 
 Since the assets were also present in the `git` history, this copy is given a new `git` history. Therefore, sadly, it shall not reflect the progression of work.
 
