@@ -48,3 +48,6 @@ In its current form, the only useable aspects of the project are the
 The following gems were used to setup the Contact Us form:
 - [`mail_form`](https://github.com/plataformatec/mail_form)
 - [`simple_form`](https://github.com/plataformatec/simple_form)
+
+### Future plans of the owner of this copy of the project
+- Tests
