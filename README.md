@@ -24,7 +24,7 @@ Since the assets were also present in the `git` history, it has been erased and 
 1. Run `bin/rails server` to launch the server
 1. Visit `localhost:3000` - voila!
 
-## About
+## Technical characteristics overview
 In its current form, the only useable aspects of the project are the
 - links
 - Facebook authentication
