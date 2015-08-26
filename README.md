@@ -10,7 +10,7 @@ The author has expressed their intent to release a video walkthrough for the pub
 
 ----
 
-Since the assets were also present in the `git` history, it has been erased and a this copy is given a new one. Therefore, sadly, it shall not reflect the progression of work.
+Since the assets were also present in the `git` history, it has been erased and a this copy is given a new one. Therefore, sadly, it shall **not** reflect the progression of work.
 
 ----
 
