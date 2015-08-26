@@ -8,7 +8,7 @@ Consequently, whilst the game launches successfully, it is humanly un-playable d
 
 The author has expressed their intent to release a video walkthrough for the public.
 
-#### Important note about the `git` history of the project
+### Important note about the `git` history of the project
 
 Since the assets were also present in the `git` history, it has been erased and a this copy is given a new one. Therefore, sadly, it shall **not** reflect the progression of work.
 
