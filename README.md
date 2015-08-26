@@ -1,3 +1,5 @@
+## Important note about the project
+
 This is a hollowed copy of an _interactive story_ (game) powered by the [Phaser.js](http://phaser.io) game engine.
 
 In keeping with the wishes of the owner, [EulaConstellar](https://github.com/EulaConstellar), of the private project, who also holds ownership of the assets, the assets have been removed from this publicly viewable copy.
@@ -8,7 +10,7 @@ The author has expressed their intent to release a video walkthrough for the pub
 
 ----
 
-Since the assets were also present in the `git` history, this copy is given a new `git` history. Therefore, sadly, it shall not reflect the progression of work.
+Since the assets were also present in the `git` history, it has been erased and a this copy is given a new one. Therefore, sadly, it shall not reflect the progression of work.
 
 ----
 
