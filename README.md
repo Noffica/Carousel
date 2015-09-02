@@ -1,12 +1,12 @@
 ## Important note about the project
 
-This is a hollowed copy of an _interactive story_ (game) powered by the [Phaser.js](http://phaser.io) game engine.
+This is a hollowed copy of an _interactive story_ (game) powered by the [Phaser.js](http://phaser.io) game engine and Rails.
 
-**In keeping with the wishes of the owner of the private project, [EulaConstellar](https://github.com/EulaConstellar), who also holds ownership of the assets, the assets have been removed from this publicly viewable copy.**
+**In keeping with the wishes of the owner of the private project and repo., [EulaConstellar](https://github.com/EulaConstellar), who also holds private ownership of the assets, the assets have been removed from this publicly viewable copy.**
 
 Consequently, whilst the game launches successfully, it is humanly un-playable due to the missing assets.
 
-The author has expressed their intent to release a video walkthrough for the public.
+The owner of the original project, repo. and assets has expressed their intent to release a video walkthrough for the public.
 
 ### Important note about the `git` history of the project
 
@@ -26,7 +26,7 @@ Since the assets were also present in the `git` history, it has been erased and 
 
 ## Technical characteristics overview
 In its current form, the only useable aspects of the project are the
-- links
+- routes
 - Facebook authentication
 - Contact Us form
 
